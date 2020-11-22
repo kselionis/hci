@@ -8,7 +8,7 @@
 | 4 | [Άσκηση προγραμματισμού](https://github.com/kselionis/site/blob/master/_remix/mouse-eraser.md) + αίτημα ενσωμάτωσης (CSCW, IV)
 | 5 | [Άσκηση γραμμής εντολών](https://asciinema.org/a/371294)
 | 6 | [Άσκηση προγραμματισμού (HCI)](https://github.com/kselionis/site/blob/master/_remix/sortable-list.md) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
-| 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
+| 7 | [Άσκηση γραμμής εντολών](https://asciinema.org/a/374613) (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
